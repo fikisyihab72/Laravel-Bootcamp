@@ -1,0 +1,54 @@
+.nav-item a{
+    color: black;
+
+}
+
+.justify-content-end{
+    background-color: whitesmoke;
+}
+
+.justify-content-center{
+    background-color: cadetblue;
+    height: 75px;
+    vertical-align: middle;
+}
+
+.row {
+    text-align: center;
+}
+.col-sm-12 {
+    display:inline-block;
+}
+
+.loginform{
+    text-align: left;
+}
+
+.list-group{
+    text-align: left;
+}
+
+.harga {
+    font-weight: bold;
+    font-size: large;
+}
+
+.nav-item{
+    font-size: large;
+    border-width: 3px;
+    border-color: tomato;
+}
+
+.offset-md-3{
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.nav-link:hover{
+    color: white;
+    background-color:tomato;
+}
+
+
+
